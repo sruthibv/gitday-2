@@ -1,0 +1,4 @@
+# Here I am creating a new file in my remote repository and will commit changes. 
+# Once this is done, I wont be able to see any changes in my local repository and even if I check git logs it will show only 1 commit that I made before. 
+# So, to make this file available in my local repository, I need to use (Git Pull) command to get the updated file in my local repo
+# commit id will be created in repo irrespective of a file update
