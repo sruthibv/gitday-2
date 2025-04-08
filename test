@@ -1,0 +1,8 @@
+# I am creating this test file again in remote repository. 
+# Previously I created a file1 in RR and used git pull command in my LR (local repository) to see changes and can also reflect my commit logs with new updated file. 
+# This time I will not use git pull command to reflect this file changes in my LR. 
+# Instead I will again make changes in my LR. I can change any file and update or I can add a new file and run git commit command. 
+# If I run git log command I'll be able to see only my commits from this new update file and not from "test" file bcoz I didnt run git pull command. 
+# Now, I'll try to run git pull command. It will not accept my request and take me to a new merge page. Just save it with :wq! command 
+# As I have done changes, I could see the result of my commit changes in between my recent and old commit... i.e I can see this  "test" file in between new and old commits
+# I can easily differentiate the old new middle update from the timings..
